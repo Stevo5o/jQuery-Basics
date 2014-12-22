@@ -6,9 +6,5 @@
      $('button').click(function() {
      //	$('h1').html('Here is some new text');
      	$('h1').html('Change Text').slideToggle(200);
-     });
-     
-             alert('Say "Hi" O\'Connor');
-             alert("Say 'Hi'");
-             alert("Say 'Hi' O'Connor");
+     });    
   })(jQuery);
