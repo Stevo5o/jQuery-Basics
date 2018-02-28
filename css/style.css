@@ -1,0 +1,19 @@
+/* 
+    Created on : 21-Dec-2014, 11:33:29
+    Author     : theWhiteFox
+*/
+body {
+    background-color: silver;
+}
+h1{
+    color: gold;
+}
+.red{color:red;}
+ul li {color:green;}
+.emphasis {color:pink;}
+.black {
+    background-color: black;
+}
+.blue {
+    color: blue;
+}
