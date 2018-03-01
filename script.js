@@ -17,6 +17,8 @@
         $('#content>p').addClass('blue');    
     });     
 
+    $('ul.color-this').children('li').eq(0).text('added with jQuery');
+
   console.log("Keep on basic jQuery!");
        
 })();
