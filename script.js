@@ -22,7 +22,7 @@
   
   $("p").click(function() {
     $(this).hide();
-  };
+  });
 
   console.log("Keep on basic jQuery!");
        
