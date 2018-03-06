@@ -20,7 +20,7 @@
 
     $('ul.color-this').children('li').eq(0).text('added with jQuery');
   
-  $(".color-this").click(function() {
+  $(".color-this li").click(function() {
     $(this).hide();
   });
 
