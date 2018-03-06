@@ -1,4 +1,5 @@
 /* basic jQuery */
+/* iffe */
 (function () {    
    
     // button event
@@ -18,6 +19,10 @@
     });     
 
     $('ul.color-this').children('li').eq(0).text('added with jQuery');
+  
+  $("p").click(function() {
+    $(this).hide();
+  };
 
   console.log("Keep on basic jQuery!");
        
