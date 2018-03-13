@@ -1,3 +1,10 @@
-# jQuery-Basics
+# Learning jQuery 
+
 ## basics
+selectors
+
+hide
+
+children
+
 ## events
